@@ -5,5 +5,5 @@
     <color name="underweight">#F7FF00</color>
     <color name="overweight">#CA2F2F</color>
     <color name="healthy">#00FF04</color>
-
+    <color name="background_main">#C46CDFED</color>
 </resources>
