@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_wt">Enter Your Weight</string>
+    <string name="hint_htft">Enter Your Height(in Ft)</string>
+    <string name="hint_htcm">Enter Your Height(in cm)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="txt_result">Result</string>
+</resources>
